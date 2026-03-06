@@ -1,4 +1,6 @@
 # ¡Hola! Soy John Fredy Rivas 👋🏾 
+<img width="1376" height="768" alt="Engenner" src="https://github.com/user-attachments/assets/6d8ed834-c80d-47b4-bea7-82ad22398d94" />
+
 
 ### Ingeniero Electromecánico de profesión & Fullstack Developer por pasión
 Soy un desarrollador apasionado por construir interfaces de usuario atractivas y altamente funcionales. Vengo del mundo de los sistemas industriales, lo que me ha dado una capacidad única para resolver problemas complejos y transformar ideas técnicas en soluciones digitales sencillas y eficientes.
