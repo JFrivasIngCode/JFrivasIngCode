@@ -29,3 +29,16 @@ Soy un desarrollador apasionado por construir interfaces de usuario atractivas y
 - 🔭 Actualmente trabajando en proyectos que integran lógica de backend con interfaces de usuario dinámicas.
 - 🌱 Perfeccionando mis habilidades en **Python** para análisis de datos o automatización.
 - 💬 Pregúntame sobre la intersección entre la **Ingeniería Electromecánica** y el **Desarrollo de Software**.
+
+
+### 🚀 Stack Tecnológico
+
+**Frontend:**
+- `HTML5` | `CSS3` | `JavaScript (ES6+)` | `React`
+
+**Backend:**
+- `Node.js` | `Express` | `Python`
+
+**Herramientas & Otros:**
+- `Git` | `GitHub` | `Metodologías Ágiles`
+
