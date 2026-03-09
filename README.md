@@ -1,4 +1,4 @@
-# ¡Hola! Soy John Fredy Rivas 👋
+# ¡Hola! Soy John Fredy Rivas 👋🏾
 ---
 <img width="1376" height="768" alt="Engenner" src="https://github.com/user-attachments/assets/6d8ed834-c80d-47b4-bea7-82ad22398d94" />
 
