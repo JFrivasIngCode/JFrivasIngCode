@@ -25,20 +25,39 @@ Soy un desarrollador apasionado por construir interfaces de usuario atractivas y
 
 🔗 Integración IoT: Experiencia conectando sensores y actuadores con plataformas web para el monitoreo y control en tiempo real.
 
-### 🚀 Proyectos y Objetivos
+## 🚀 Proyectos y Objetivos
 - 🔭 Actualmente trabajando en proyectos que integran lógica de backend con interfaces de usuario dinámicas.
-- 🌱 Perfeccionando mis habilidades en **Python** para análisis de datos o automatización.
+- 💪🏿 Perfeccionando mis habilidades en **Python** para análisis de datos o automatización.
 - 💬 Pregúntame sobre la intersección entre la **Ingeniería Electromecánica** y el **Desarrollo de Software**.
 
 
-### 🚀 Stack Tecnológico
+##  🛠 Stack Tecnológico
 
-**Frontend:**
-- `HTML5` | `CSS3` | `JavaScript (ES6+)` | `React`
+### Frontend:
 
-**Backend:**
-- `Node.js` | `Express` | `Python`
 
-**Herramientas & Otros:**
-- `Git` | `GitHub` | `Metodologías Ágiles`
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+ ### Backend:
+
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+
+
+
+
+### Herramientas & Otros:
+
+
+ ### Database:
+
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
 
