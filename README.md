@@ -73,8 +73,7 @@ Soy un desarrollador apasionado por construir interfaces de usuario atractivas y
  ## 📈 Estadísticas Github
 
 <div>
- 
-
+  
 [![](https://github-readme-stats.vercel.app/api?username=JFrivasIngCode&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JFrivasIngCode)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=JFrivasIngCode&theme=material-palenight)](https://github.com/JFrivasIngCode)
 </div>
@@ -84,5 +83,15 @@ Soy un desarrollador apasionado por construir interfaces de usuario atractivas y
  ## Redes Sociales
 
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+ <div align="center">
+
+## 💡 _Transformando ideas en código, precisión en soluciones._
+
+**Hecho con ❤️ por John Fredy Rivas**
+
+_Última actualización: 11 de marzo de 2026_
+
+</div>
  
 
