@@ -71,5 +71,18 @@ Soy un desarrollador apasionado por construir interfaces de usuario atractivas y
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
  ## 📈 Estadísticas Github
+
+<div>
+ 
+
+[![](https://github-readme-stats.vercel.app/api?username=JFrivasIngCode&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JFrivasIngCode)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JFrivasIngCode&theme=material-palenight)](https://github.com/JFrivasIngCode)
+</div>
+
+
+ 
+ ## Redes Sociales
+
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  
 
