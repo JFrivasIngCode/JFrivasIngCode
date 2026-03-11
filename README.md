@@ -63,7 +63,7 @@ A
 ## Social Media
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-🔗 **[Visita mi página personal aquí](https://jfrivasingcode.github.io/acerca-de-john-fredy-rivas/)**
+🔗 **[Visit my personal page here](https://jfrivasingcode.github.io/acerca-de-john-fredy-rivas/)**
 
 
 <div align="center">
